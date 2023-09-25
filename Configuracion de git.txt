@@ -1,0 +1,27 @@
+Configuracion de git
+
+git config --global user.name "Tu Nombre"
+git config --global user.email "tu@email.com"
+
+// Para inicializar repositorio
+
+git init
+
+// Agregar archivos
+git add
+
+// Para crear commit
+
+git commit -m ""
+
+// Para crear un nuevo commit
+git commit -am "agregada etiqueta p"
+
+// Para mostrar los git resumidos
+
+git log --oneline
+
+// Para navegar entre versiones anterior
+git checkout d5b56d5
+
+// Para regresar
